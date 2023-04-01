@@ -1,0 +1,12 @@
+Bitirme Projem Akıllı Ev Sistemleri
+Akıllı ev sistemler, aydınlatma, ısıtma, güvenlik ve ev aletlerinin yönetilmesini sağlayan otomasyon sistemlerdir. Akıllı ev teknolojisinde kurulan sistem akıllı cep telefonu ya da tablet gibi cihazlarınıza bağlanarak evde veya evden çok uzakta iken sistemi yönetebilmenizi sağlar.
+
+Projenin Özellikleri:
+1- Sadece eşleştirilmiş karta sahip kullanıcı eve girebilir. (RFID kart okuyucu ve Servo motor)
+2- Tek bir noktadan stor perdenin yüksekliğini değiştirerek evin ne kadar güneş alacağını ayarlamak. (Potansiyometre ve Servo motor)
+3- Gaz sensörü alarm verdiğinde gazın içeride birikmemesi için pencerenin otomatik açılması. ( Gaz sensörü, buzzer ve servo motor)
+4- Elektrik kesildiğinde bataryaya bağlı led sayesinde anahtar ile aydınlatmayı açma-kapama.(buton, led ve batarya)
+5- Mobil uygulama ile istediğiniz zaman evin aydınlatmalarını açabilir ve kapayabilirsiniz.
+6- Mobil uygulama ile ev içindeki gaz, sıcaklık ve nem değerlerini takip edebilirsiniz.
+7- Mobil uygulama ile istediğiniz zaman evi havalandırabilir, pencereyi aç-kapa yapabilirsiniz.
+8- Mobil uygulama ile istediğiniz zaman veya tehlike anında ev içinde zili çalabilirsiniz. (Appinventor ile uygulama geliştirilmiştir)
